@@ -2,7 +2,7 @@
 
 This repository contains the code for my personal portfolio website, showcasing my projects, skills, and background as a Computer Science student.
 
-**Live Demo:** [Your Vercel Deployment URL Here](https://bibek-bhandari.vercel.app/) 
+**Live Demo:** (https://bibek-bhandari.vercel.app/) 
 
 ## Description
 
