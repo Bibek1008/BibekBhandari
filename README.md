@@ -71,5 +71,5 @@ This project is configured for easy deployment on [Vercel](https://vercel.com/).
 
 *   **Bibek Bhandari**
     *   GitHub: [@Bibek1008](https://github.com/Bibek1008)
-    *   LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/bibek-bhandari-053283226/) _(Optional: Update if needed)_
+    *   LinkedIn: https://www.linkedin.com/in/bibek-bhandari-053283226/
 
