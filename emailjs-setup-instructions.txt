@@ -12,7 +12,7 @@ Follow these steps to configure EmailJS for your portfolio contact form:
 3. Select your email provider (Gmail, Outlook, etc.)
 4. Follow the authentication steps
 5. Give your service a name (e.g., "portfolio-contact")
-6. Copy the Service ID - you'll need this later// service_mbok9rb
+6. Copy the Service ID - you'll need this later// 
 
 ## Step 3: Create an Email Template
 1. Go to "Email Templates" in the dashboard
@@ -22,11 +22,11 @@ Follow these steps to configure EmailJS for your portfolio contact form:
    - {{from_email}}
    - {{message}}
 4. Save your template
-5. Copy the Template ID - you'll need this later//template_0554g81
+5. Copy the Template ID - you'll need this later//
 
 ## Step 4: Get Your Public Key
 1. Go to "Account" > "API Keys"
-2. Copy your Public Key//r_SzSqlwG0490XITR
+2. Copy your Public Key//
 
 ## Step 5: Create a .env.local File
 Create a file called .env.local in your project root with these values:
